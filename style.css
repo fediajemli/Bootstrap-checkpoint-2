@@ -79,7 +79,13 @@
 }
 #info{
     display: flex;
-    margin: 70px;
+    justify-content: space-between;
   
     
+}
+
+
+#info .col-4 {
+
+    width: 300px;
 }
